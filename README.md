@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fadhino987@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UCrKeNqavGx4M_sZD4ZB9R2PPfsyIRCq/view?usp=sharing](https://drive.google.com/file/d/1UCrKeNqavGx4M_sZD4ZB9R2PPfsyIRCq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UCrKeNqavGx4M_sZD4ZB9R2PPfsyIRCq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
