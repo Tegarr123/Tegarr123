@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tegar</h1>
-<h3 align="center">A passionate Aspiring Data Engineer</h3>
+<h3 align="center">A Passionate Data Engineer</h3>
 
-- 🔭 I’m currently working on [NusaData Research](https://github.com/Tegarr123/nusadata-etl-script/blob/main/README.md)
+- 🔭 I’m currently working on [NusaData Research](https://github.com/Tegarr123/nusadata-etl-script/blob/main/README.md) Project
 
 - 🌱 I’m currently learning **Apache Airflow, GCP, DBT, and Big Data Engineering**
 
